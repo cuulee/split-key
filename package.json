@@ -1,6 +1,6 @@
 {
   "name": "split-key",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Supercharge your JSON objects by mapping multiple keys to one value",
   "license": "MIT",
   "homepage": "https://github.com/dawsonbotsford/split-key#readme",
